@@ -6,32 +6,24 @@ The good news is, most of our work is done already. We just need to write some a
 
 - Access the Figma: https://www.figma.com/file/kAL3AumTUV11y1IqHhltB6/Sole-and-Ankle-%E2%80%94-Mockup
 
-This project uses Create React App. To get started, run the following terminal commands:
+To get started, run the following terminal commands:
 
 - `npm install`
-- `npm run start`
+- `npm run dev`
 
-You can then visit the app in-browser; it defaults to http://localhost:3000.
+The terminal should provide a URL like http://localhost:5173/. You can visit this URL in-browser to view our application.
 
 _Note that we're only focusing on the design._ The links and inputs don't do anything.
 
 > **Want a bigger challenge?**
 >
-> This workshop comes with a lot of starter code — we'll be adding
-> Flex-specific properties, but for the most part, we don't have a
-> ton of code to write. If you'd prefer, you can build the app from
-> scratch, to practice all the CSS we've learned so far!
+> This workshop comes with a lot of starter code — we'll be adding Flex-specific properties, but for the most part, we don't have a ton of code to write. If you'd prefer, you can build the app from scratch, to practice all the CSS we've learned so far!
 >
-> If you go that route, you can find the sneaker assets you need in
-> `/public/assets`, and their metadata in `/src/data.js`. Design
-> tokens can be found in `/src/constants`. The custom font is
-> Raleway, from Google Fonts.
+> If you go that route, you can find the sneaker assets you need in `/public/assets`, and all of the raw data in `/src/data.js`. Design tokens can be found in `/src/constants`. The custom font is Raleway, from Google Fonts.
 
 ## Troubleshooting
 
 If you run into problems running a local development server, check out our [Troubleshooting Guide](https://courses.joshwcomeau.com/troubleshooting) on the course platform.
-
-This guide addresses the common `Digital Envelope Routine` error you may have seen.
 
 ---
 
